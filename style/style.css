@@ -53,6 +53,7 @@ body {
 
 .grid-item {
 	border-radius: 10px;
+	box-shadow: 1.5em 1.5em 4.5em var(--light-gray);
 }
 
 .testimony-header {
